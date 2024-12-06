@@ -101,7 +101,7 @@ export default function SearchScreen() {
         </ScrollView>
       ) : (
         <View>
-          <Text style={styles.resultsText}>Nenhum filme encontrado.</Text>
+          <Text style={styles.resultsText}>No movie found.</Text>
         </View>
       )}
     </SafeAreaView>

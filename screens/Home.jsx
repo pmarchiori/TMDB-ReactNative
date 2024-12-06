@@ -79,7 +79,7 @@ export default function Home() {
 
           <MovieList title="Upcoming" data={upcoming} />
 
-          <MovieList title="TopRated" data={topRated} />
+          <MovieList title="Top Rated" data={topRated} />
         </ScrollView>
       )}
     </View>
